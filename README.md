@@ -1,1 +1,1 @@
-# A star algorith visualization with PyGames
+# A star algorithm visualization with PyGames
